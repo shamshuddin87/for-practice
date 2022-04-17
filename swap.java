@@ -13,4 +13,3 @@ public class swapingTwonumbers {
        System.out.println("y value:"+y); 
        
        
-    }
